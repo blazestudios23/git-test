@@ -1,2 +1,2 @@
 # git-test
-This is for full stack training
+This is to test git, yeah! 
