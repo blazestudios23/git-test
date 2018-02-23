@@ -1,2 +1,5 @@
-# git-test
-This is to test git, yeah! 
+# Git Training
+
+## Description
+
+This was created to get more proficient with git and github.
