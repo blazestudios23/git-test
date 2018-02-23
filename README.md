@@ -1,2 +1,8 @@
-# git-test
-This is for full stack training
+
+
+
+# Git training
+
+## Description
+
+This was created to get more proficient with git and github.
