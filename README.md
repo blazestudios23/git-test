@@ -1,7 +1,7 @@
 
 
 
-# Git training
+# Git Training
 
 ## Description
 
